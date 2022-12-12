@@ -1,0 +1,6 @@
+{
+    "Users": [
+        { "id": 1, "name": "Lucas", "email": "correa.l@icloud.com", "password": "123456"},
+        { "id": 2, "name": "Roberto", "email": "teste.t@icloud.com", "password": "123456"}
+    ]
+}
