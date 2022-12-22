@@ -25,7 +25,7 @@ const Header = ({autenticado, variant}: IHeader) => {
                     </>) : (
                     <>
                     <Link to="/login"><Button title="ENTRAR" /></Link>
-                    <Button title="CADASTRAR" /> 
+                    <Link to="/cadastrar"><Button title="CADASTRAR" /></Link>
                     </> ) }
 
                 </Row>
